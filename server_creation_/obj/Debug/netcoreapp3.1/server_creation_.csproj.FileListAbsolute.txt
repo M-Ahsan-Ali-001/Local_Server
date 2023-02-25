@@ -1,0 +1,14 @@
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\bin\Debug\netcoreapp3.1\server_creation_.exe
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\bin\Debug\netcoreapp3.1\server_creation_.deps.json
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\bin\Debug\netcoreapp3.1\server_creation_.runtimeconfig.json
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\bin\Debug\netcoreapp3.1\server_creation_.runtimeconfig.dev.json
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\bin\Debug\netcoreapp3.1\server_creation_.dll
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\bin\Debug\netcoreapp3.1\server_creation_.pdb
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\obj\Debug\netcoreapp3.1\server_creation_.csproj.AssemblyReference.cache
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\obj\Debug\netcoreapp3.1\server_creation_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\obj\Debug\netcoreapp3.1\server_creation_.AssemblyInfoInputs.cache
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\obj\Debug\netcoreapp3.1\server_creation_.AssemblyInfo.cs
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\obj\Debug\netcoreapp3.1\server_creation_.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\obj\Debug\netcoreapp3.1\server_creation_.dll
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\obj\Debug\netcoreapp3.1\server_creation_.pdb
+C:\Users\Anonymous Guy\source\repos\server_creation_\server_creation_\obj\Debug\netcoreapp3.1\server_creation_.genruntimeconfig.cache
